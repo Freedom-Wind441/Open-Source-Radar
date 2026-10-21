@@ -1,6 +1,6 @@
 # Open-Source-Radar
 
-Weekly research and curated discoveries from GitHub and Hugging Face.
+每周从 GitHub 和 Hugging Face 收集研究成果和精选发现。
 
 每周开源项目雷达：关注 AI / Agent / 自动化、开发工具与软件架构、本地模型部署、Android 交互及 AI × 投资研究。
 
